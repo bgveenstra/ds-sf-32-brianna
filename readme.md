@@ -1,10 +1,7 @@
 # Brianna Veenstra
 
+Find me: [bgveenstra on GitHub](https://github.com/bgveenstra); on [LinkedIn](https://www.linkedin.com/in/brianna-veenstra/).
 
-
-[https://github.com/bgveenstra](https://github.com/bgveenstra)
-
-[https://www.linkedin.com/in/brianna-veenstra/](https://www.linkedin.com/in/brianna-veenstra/)
 
 ### Personable Introduction
 
