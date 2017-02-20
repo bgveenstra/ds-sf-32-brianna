@@ -11,6 +11,10 @@ Brianna...
 * lives in San Francisco
 * plays Dungeons and Dragons
 
+### Favorite Resources
+
+* [Pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)  
+* [Pandas Cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 ### Homework & Coursework
 
