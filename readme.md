@@ -21,3 +21,16 @@ Brianna...
 [Lesson 2](lesson-2)
 - [Ozone](lesson-2/homework-02-the-pandas-library-starter-code.ipynb)  
 - [Police Killings extra practice (partial)](lesson-2/Homework 2 - part 2 police shootings.ipynb)
+
+#### Project Ideas
+
+**Mental Health in Tech**
+
+1. Is there a significant difference between perceived attitudes regarding mental health, between the data from 2014 and the data from 2016?
+
+1. Is there any evidence from this data set that there are more negative perceived attitudes towards certain mental health conditions? Certain genders or ages?
+
+[Survey on Mental Health in the Tech Workplace in 2014](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
+["Ongoing" from 2016](https://www.kaggle.com/osmi/mental-health-in-tech-2016)
+
+
